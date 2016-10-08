@@ -31,11 +31,13 @@
 .AR_BERKLEY{
   font-family: fantasy;
 }*/
-/*#AR_BERKLEY
-@font-face {
-    font-family: "ar berkley";
-    src: url("https://code.google.com/archive/p/my-font-1/downloads/ARBERKLEY.ttf");
-}*/
+#AR_BERKLEY{
+  font-family: "Ar Berkley";
+}
+
+body{
+
+}
 .lists{
   background-image: url("img/list-bg.png");
 }
