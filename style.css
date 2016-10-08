@@ -14,7 +14,7 @@ body{
            display: block;
            position: fixed;
            bottom: 0;
-      } 
+      }
 
 #main {
   position: absolute;
@@ -28,3 +28,8 @@ body{
   display: inline;
   text-align: justify;
 }
+.AR_BERKLEY
+  @font-face {
+    font-family: Ar berkley;
+    src: url(fontzone.net);
+    }
