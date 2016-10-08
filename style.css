@@ -33,11 +33,14 @@
 }*/
 #AR_BERKLEY{
   font-family: "Ar Berkley";
+  font-size: 1.5em;
 }
 
-body{
 
-}
 .lists{
   background-image: url("img/list-bg.png");
+}
+.iconsOfSocialMedia
+{
+  float: right;
 }
