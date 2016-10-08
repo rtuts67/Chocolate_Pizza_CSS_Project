@@ -1,4 +1,4 @@
-body{
+/*body{
   display: inline;
 }
 #header {
@@ -28,8 +28,16 @@ body{
   display: inline;
   text-align: justify;
 }
-.AR_BERKLEY
-  @font-face {
-    font-family: Ar berkley;
-    src: url(fontzone.net);
-    }
+.AR_BERKLEY{
+  font-family: fantasy;
+}*/
+#AR_BERKLEY{
+  font-family: "Ar Berkley";
+}
+
+body{
+
+}
+.lists{
+  background-image: url("img/list-bg.png");
+}
