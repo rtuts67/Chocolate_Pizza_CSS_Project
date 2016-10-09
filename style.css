@@ -14,3 +14,37 @@ body{
 {
   float: right;
 }
+.data-footer{
+  margin: 0px auto;
+  font-family: sans-serif;
+  border-top-width: 10px;
+  border-top-style: outset;
+  border-top-color: #c0c0c0;
+}
+.footer1{
+column: 2;
+width: auto;
+}
+.text{
+rows: 2
+position:relative;
+float:right;
+}
+#photovanessa{
+position: relative;
+float: left;
+margin: 1em;
+}
+#nametext{
+font-size: 2em;
+align-content: top;
+}
+#imglogo{
+display: block;
+margin: 0px auto;
+}
+#copywright{
+text-align: center;
+color: #d3d3d3;
+font-size: .5em;
+}
